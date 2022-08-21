@@ -1,2 +1,2 @@
 # MachineLearrning
-Base ML + INS
+Base ML
